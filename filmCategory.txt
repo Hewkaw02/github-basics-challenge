@@ -3,3 +3,9 @@ Movies:
 2. Inception
 3. The Dark Knight
 4. Parasite
+
+Series:
+1. Breaking Bad
+2. Stranger Things
+3. Severance
+4. Dark
